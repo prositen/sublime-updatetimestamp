@@ -1,0 +1,6 @@
+{
+	// This file should not be edited in sublime while the plugin is active - this will break the file!
+	"prefix" : "Last modified:",
+	"date_format" : "%Y-%m-%d",
+	"update_timestamp_on_save" : true
+}

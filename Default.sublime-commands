@@ -1,0 +1,16 @@
+[
+    {
+        "caption": "Preferences: updatetimestamp Settings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/updatetimestamp/updatetimestamp.sublime-settings"
+        }
+    },
+    {
+        "caption": "Preferences: updatetimestamp Settings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/updatetimestamp.sublime-settings"
+        }
+    }
+]
